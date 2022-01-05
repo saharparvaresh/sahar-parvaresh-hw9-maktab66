@@ -1,0 +1,54 @@
+.bg-color-gray {
+    background-color: #eeeeee;
+}
+.bg-color-darkgray {
+    background-color: #c2c2c2;
+}
+.navlink-color-gray {
+    color: #acacac;
+}
+.color-gray {
+    color: #c2c2c2;
+}
+.color-gray-hover:hover {
+    color: #757575;
+}
+.color-darkgray {
+    color: #717171;
+}
+.bg-image-headerslide {
+    background: transparent url("image/mary-photography.jpeg") no-repeat center center;
+    background-size: cover;
+    padding: 8rem;
+}
+.color-yellow {
+    color: #f3d032 !important;
+}
+.text-line-bottom::after {
+    content: "";
+    position: absolute;
+    right: 50%;
+    transform: translateX(50%);
+    bottom: -15px;
+    width: 70px;
+    height: 3px;
+    background-color: #333333;
+}
+.font-size-18 {
+    font-size: 18px;
+}
+.bg-color-yellow {
+    background-color: #f5b733;
+}
+.width-circle {
+    width: 1.7rem;
+}
+.height-circle {
+    height: 1.7rem;
+}
+.bg-color-darkgray-dark {
+    background-color: #4e4e4e !important;
+}
+.bg-color-dark {
+    background-color: #292929 !important;
+}
